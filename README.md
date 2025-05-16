@@ -3,13 +3,21 @@ Max-Chen2020/Max-Chen2020 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-### 👋 Hi there! I'm Haoyang, a postgraduate student in computer science specialising in machine learning. I am: 
+# UAV Intelligence Research @ Purple Mountain Laboratory (PML)
 
-- 🎓 Currently in my final year at the University of Melbourne
-- 💻 Proficient in Python, Java, C++, and machine learning libraries like Pytorch, Keras, and scikit-learn
-- 🤖 Experienced in data analysis and deep learning, familar with various spatio-temporal networks and their applications
+👋 Welcome to my research repository focused on advancing Unmanned Aerial Vehicle (UAV) technologies!
 
-I'm passionate about solving complex problems and dedicated to continuous learning. I'm seeking opportunities to work with leading researchers and organizations in the field of machine learning and large-scale data analysis, where I can contribute my skills and collaborate on cutting-edge projects.
+**Affiliation**: [Purple Mountain Laboratory (PML)](https://www.pmlabs.com.cn)  
 
-If you're interested in working with me, feel free to reach out via email or LinkedIn. Let's build something amazing together! 🚀
+**Research Focus**:
+- 🚁 Autonomous UAV systems development
+- � LLM-driven mission planning & decision-making
+- 🧮 Swarm intelligence for UAV flocking
+- 📡 Network optimization for UAV communication
 
+**Key Interests**:
+- Machine learning for autonomous navigation
+- Cooperative perception in swarms
+- Edge computing for UAV networks
+
+📫 Collaboration inquiries: chenhaoyang@pmlabs.com.cn
